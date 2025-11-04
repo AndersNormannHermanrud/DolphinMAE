@@ -4,7 +4,10 @@ This is the repo for my master thesis "A Novel In-Domain Pre-Training Approach T
 It's a bit messy and as some architectures and methods were rapidly tested, sorry
 
 ## Experiment and Checkpoint Location
-The files you are interested in are probably /MAE/* where the thesis experiment lies, and /Results_from_cluster/* where the finnished checkpoints reside
+The files you are interested in are probably /MAE/* where the thesis experiment lies
+
+Checkpoints used can be found at:
+https://1drv.ms/u/c/b81db2433fab2ab7/EdPoSdJqxnxPgoPOUa-UfXgBvdXIjwSbaKsE71Ep5SPBcg?e=aAVUeM
 
 Most others are legacy code or experiments from earlier project phases. If someone finds this useful I will probably clean up
 
